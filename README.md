@@ -1,6 +1,6 @@
 # CSC-645
-required libraries
-Open CV
-NumPy
-wxPython
-pynput
+// required libraries
+// Open CV
+// NumPy
+// wxPython
+// pynput
